@@ -17,7 +17,7 @@ def activate(inputs, weights):
 
     
 
-if __name__ == "__main__":
+if __name__ == "__main__":  
     inputs = [.5, .3, .2]
     weights = [.4, .7, .2]
 
